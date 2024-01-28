@@ -1,0 +1,194 @@
+.container {
+    padding: 120px 80px;
+}
+
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container-titulo-topo {
+    background-image: url("../img/banner-topo.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 100px 80px 0 80px;
+    text-align: center;
+    margin-top: 50px;
+    height: 500px;
+
+}
+
+
+.titulo-topo {
+    color: #3c184e;
+    font-size: 68px;
+    background-color: #ffffffc4;
+    padding: 5px 0 35px 0;
+    margin: 10px auto 10px auto;
+    box-shadow: 0 8px 32px #1f26875e;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 1040px;
+    padding: 30px;
+    box-sizing: border-box;
+
+}
+
+.container-nome-logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+
+
+.fale-conosco {
+    max-width: 1040px;
+    width: 320px;
+    margin: 30px auto;
+    padding: 3px;
+    border-radius: 60px;
+    text-align: center;
+    background-color: #3c184e;
+
+}
+
+.fale-conosco a {
+    color: #fff;
+    font-size: 30px;
+}
+
+.fale-conosco img {
+    height: 40px;
+    margin-top: 10px;
+}
+
+
+
+.container-nome-logo img{
+    width: 30px;
+    margin: 0 5px 0 0;
+    font-size: 3px;
+}
+
+.container-nome-logo .nome-pet-shop {
+    font-size: 30px;
+    margin: 5px 0 0 30px;
+    font-weight: bold;
+}
+
+.slogan-pet-shop {
+    font-size: 13px;
+    margin: 2px 0 0 30px;
+}
+
+.secao-lista {
+    font-weight: bold;
+}
+
+.container-listas {
+    text-align: center;
+    max-width: 900px;
+    color: #3c184e;
+    margin: 0 auto 50px;
+}
+
+.container-listas li {
+    max-width: 850px;
+    text-align: justify;
+    font-size:21px;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+
+.secao-imagens {
+    max-width: 900px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.servicos-imagens {
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    border-radius: 15px;
+    width: 176px;
+}
+
+.secao-tarja{
+    padding: 80px auto 0 auto;
+    background-color: #3c184e;
+}
+
+.secao-tarja span {
+    font-weight: bold;
+}
+
+.secao-tarja p{
+    color: #fff;
+    height: 50px;
+    font-size: 40px;
+    margin: 40px 250px 0 250px;
+    padding-bottom: 35px;
+}
+
+.secao-tarja {
+    text-align: center;
+    padding: 50px auto 20px auto;
+    height: 210px;
+    line-height: 50px;
+}
+
+.container-tarja img{
+    height: 50px;
+    padding: 40px 14px 0 14px;
+    font-size: 20px;
+}
+
+.secao-marcas h3{
+    margin-top: 90px;
+    text-align: center;
+    font-size: 37px;
+}
+
+.container-marcas {
+    width: calc(100% / 2);
+    box-sizing: border-box;
+    margin: 10px auto;
+    padding: 50px
+}
+
+.secao-localizacao {
+    text-align: center;
+}
+
+.secao-localizacao h3 {
+    font-size: 30px;
+}
+
+.secao-rodape {
+    color:#fff;
+    background-color:#3c184e;
+    font-style: oblique;
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+}
+
+.link-navegacao {
+    text-decoration: none;
+    margin: 5px;
+    padding: 8px;
+    background-color:#3c184e;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.secao-link {
+    margin-top: 10px;
+}
+
+.link-navegacao-rodape {
+    margin-bottom: 15px;
+    line-height: 30px;
+}
